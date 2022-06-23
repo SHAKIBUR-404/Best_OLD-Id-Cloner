@@ -10,7 +10,7 @@ pkg install git
 
 pip2 install bs4
 
-rmrm -rf Best_OLD-Id-Cloner
+rm -rf Best_OLD-Id-Cloner
 
 git clone https://github.com/Shakibur-Cyber-King/Best_OLD-Id-Cloner.git
 
