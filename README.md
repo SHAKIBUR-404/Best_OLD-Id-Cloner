@@ -16,4 +16,4 @@ git clone https://github.com/Shakibur-Cyber-King/Best_OLD-Id-Cloner.git
 
 cd Best_OLD-Id-Cloner
 
-python Premium-Shakib1.py
+python Premium-Shakib.py
